@@ -1,0 +1,11 @@
+#main {
+  min-height: 50vh !important;
+}
+#maincontent {
+  margin: 1.2em;
+}
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
