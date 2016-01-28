@@ -1,4 +1,4 @@
-var backend     = 'http://cakephp-phpjalisco.dev/'; // 'http://cakephp-phpjalisco-foxteck.c9users.io';
+var backend     = 'http://cakephp-phpjalisco-foxteck.c9users.io';
 var rental_id   = null;
 
 $(document).ready(function () {
